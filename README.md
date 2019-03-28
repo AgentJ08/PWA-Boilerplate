@@ -1,2 +1,2 @@
-# pwa-boilerplate
+# PWABoilerplate
 Boilerplate for PWA project.
